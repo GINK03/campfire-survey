@@ -20,3 +20,6 @@ Plotlyというサービスを利用することで、Pandasのデータフレ�
 ## 2. Campfireのカテゴリごとの出資額の達成率の分布
 
 達成率という視点で見ていきますと、{実際集まった額}/{目標額}という視点でこれをlogをとってカテゴリごとにバイオリン図を描くとこのようになります。  
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/4949982/37239380-e8b3984e-247d-11e8-8dd5-f0a467056f59.png">
+</div>
