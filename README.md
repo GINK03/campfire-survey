@@ -23,3 +23,6 @@ Plotlyというサービスを利用することで、Pandasのデータフレ�
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/37239380-e8b3984e-247d-11e8-8dd5-f0a467056f59.png">
 </div>
+達成率で行くとそこそこ達成するか、達成率が極めて悪いかの二極化していることがわかりました。  
+
+アニメや地方創生は安定して好成績を達成しますが、ビジネスやガジェットは失敗率が高そうです。
