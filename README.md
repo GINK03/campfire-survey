@@ -14,3 +14,5 @@ Plotlyというサービスを利用することで、Pandasのデータフレ�
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/37239330-f54fe4e6-247c-11e8-9f6a-6a2ecda9747f.png">
 </div>
+
+金額をLogのオーダを取っているので差がわかりにくいですが、10 ~ 100倍の予算の差があることがわかります  
