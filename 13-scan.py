@@ -24,6 +24,7 @@ headers = {'User-agent':"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWe
 def _map(arr):
   index, iss = arr
   for i in iss:
+    time.sleep(32)
     url = base_url.format(i)
     print(f'now scan {url}')
     name = hashlib.sha256(bytes(url,'utf8')).hexdigest()
