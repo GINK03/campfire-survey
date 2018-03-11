@@ -83,6 +83,22 @@ Plotlyというサービスを利用することで、Pandasのデータフレ�
 
 [コード](https://github.com/GINK03/campfire-survey/blob/master/40-imgnum-reportnum-category.py)
 
+## ファイル一覧の説明
+- 1. **13-scan.py**
+campfireさまのサイトを1req/secでスクレイピングします
+
+- 2. **20-target-price-violin.py**
+violin図を描くためのデータ角度を前処理を行います  
+
+- 3. **dataframe-exchange.ipynb**  
+Jupyter+Plotlyで、violin図を描画します(Plotlyはオンライン機能を有効にしてサインインしておく必要があります)  
+
+- 4. **30-twitter-facebook-rels.py**  
+twitterの数と出資金額の散布図のcsvデータを作成します  
+
+- 5. **40-imgnum-reportnum-category.py**  
+様々な特徴量を定義して、’ロジスティック回帰で分類を行い、何らかの特徴を明らかにします
+
 ## まとめ
 経営情報学会の少し、こっち側よりのデータサイエンスの練習の一環でした。このくらいならだいたい４〜６時間でデータの取得→特徴量の決定→KPIの仮設定→分析までのフレームワークを楽に回せるようになってきたかなという気持ちです（あくまで気持ち）　　
 
