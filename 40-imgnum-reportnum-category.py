@@ -132,7 +132,7 @@ if '--step2' in sys.argv:
     xs = [0.0]*len(feat_index)
 
     xs[ feat_index['imgs_size'] ] = imgs_size
-    xs[ feat_index['patron'] ] = patron
+    xs[ feat_index['patron'] ] = 0. #patron
     # xs[ feat_index['success'] ] = 
     xs[ feat_index[cat] ]      =  1.0
     xs[ feat_index['delta'] ]  = delta
